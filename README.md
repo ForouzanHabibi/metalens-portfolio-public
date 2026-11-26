@@ -17,21 +17,6 @@ project, or external lookup table is required.**
 - Includes numerical checks for phase wrapping, radial symmetry, pupil masking,
   centered focusing, and approximate Airy FWHM.
 
-## Quick start (VS Code / Windows PowerShell)
-
-Open this folder in VS Code. In **Terminal → New Terminal** run:
-
-```powershell
-py -m venv .venv
-.\.venv\Scripts\python.exe -m pip install -r requirements.txt
-.\.venv\Scripts\python.exe examples/run_demo.py
-.\.venv\Scripts\python.exe -m pytest -q
-```
-
-On systems where `py` is not available, use `python` instead. On macOS/Linux,
-activate a virtual environment and use `python3`.
-
-The demonstration writes figures and a synthetic data CSV into `figures/`.
 
 ## Example design (illustrative, not a physical BIG design)
 
