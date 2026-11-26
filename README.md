@@ -77,12 +77,3 @@ metalens-portfolio-public/
 └── README.md
 ```
 
-## Ownership and reuse
-
-© 2026 Forouzan Habibighahfarokhi. All rights reserved.
-Shared as a portfolio example for inspection. No open-source reuse license is
-provided. This repository does not include third-party collaborator research
-scripts, private FDTD simulations, or collaborator-provided LUT files.
-
-If you plan to incorporate new data or code from a collaborator, obtain the
-necessary permission before publishing it.
