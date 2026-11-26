@@ -1,0 +1,24 @@
+# Python / editor
+__pycache__/
+.pytest_cache/
+*.py[cod]
+.venv/
+.vscode/
+.idea/
+.env
+.env.*
+
+# Keep research inputs and unpublished outputs out of the public repository
+research_scripts/
+private/
+results/private/
+*.fsp
+*.lms
+*.mat
+*.ldf
+*.h5
+*.hdf5
+*.zbf
+*.zos
+*.zmx
+*.log
